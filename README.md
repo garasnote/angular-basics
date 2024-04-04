@@ -1,4 +1,4 @@
-# Bases
+# Angular Basics
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.3.
 
@@ -25,3 +25,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Reasons
+
+I started this project to learn the basics of Angular, so It's useless for anyone else on the planet, so far I have experienced with: modules, components, ngIf, ngFor, and ngElse. Also, there is some spanish here and there, don't mind that.
